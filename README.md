@@ -11,6 +11,9 @@
 Чтобы это продемонстрировать, в Main создайте объект и три раза вызовите его метод calculate. Результаты каждого вызова выводите в консоль.
 
 Скриншоты для решения задачи. Важно: это не реальный сервис.
+
 https://user-images.githubusercontent.com/53707586/212545840-11c9918b-832a-4f19-9ade-29e5c259ecf8.png
+
 https://user-images.githubusercontent.com/53707586/212545847-3b72640a-3c13-49dd-bacd-0020c8d4966a.png
+
 https://user-images.githubusercontent.com/53707586/212545851-949d5826-82dc-47f7-b18a-e476819633af.png

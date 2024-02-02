@@ -5,7 +5,7 @@ public class Main {
         int loanPeriod = 1;
         double interestRate = 9.99; // процентная ставка по кредиту
         double loanPayment = service.calculate(loanAmount, loanPeriod, interestRate);
-        System.out.println("Ежемесячный платеж: " + loanPayment + " ₽");
+        System.out.println("Ежемесячный платеж: " + loanPayment + " рублей");
 
         System.out.println("Ежемесячный платеж: " + service.calculate(1000000, 2, 9.99) + " рублей");
 
